@@ -21,3 +21,9 @@ This bash script installs `kubectl` and `Helm` on a Linux system (amd64 architec
 2. Make it executable:
 ```bash
 chmod +x kubectl&helm.sh
+```
+
+## Direct Download
+```bash
+curl -fsSL -o install_k8s_tools.sh https://raw.githubusercontent.com/PRINCE1409/Packages/refs/heads/main/kubectl%26helm.sh
+```
