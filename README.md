@@ -23,4 +23,5 @@ This bash script installs `kubectl` and `Helm` on a Linux system (amd64 architec
 chmod +x kubectl&helm.sh
 
 ## Direct Download
-curl -fsSL -o install_k8s_tools.sh https://raw.githubusercontent.com/PRINCE1409/Packages/test/kubectl%26helm.sh
+```bash
+curl -fsSL -o install_k8s_tools.sh https://raw.githubusercontent.com/PRINCE1409/Packages/refs/heads/main/kubectl%26helm.sh
